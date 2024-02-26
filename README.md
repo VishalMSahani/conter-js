@@ -1,3 +1,3 @@
 # conter-js
 
-Screenshot ! <br> [Image](image.png)
+Screenshot ! <br> [Image](./image.png)
